@@ -10,6 +10,7 @@ namespace TestTrash
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
         }
     }
 }
