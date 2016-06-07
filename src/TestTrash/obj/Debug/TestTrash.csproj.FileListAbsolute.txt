@@ -1,1 +1,7 @@
 E:\GitRepo\TestTrash\src\TestTrash\bin\Debug\TestTrash.exe.config
+E:\GitRepo\TestTrash\src\TestTrash\bin\Debug\TestTrash.exe
+E:\GitRepo\TestTrash\src\TestTrash\bin\Debug\TestTrash.pdb
+E:\GitRepo\TestTrash\src\TestTrash\bin\Debug\Newtonsoft.Json.dll
+E:\GitRepo\TestTrash\src\TestTrash\bin\Debug\Newtonsoft.Json.xml
+E:\GitRepo\TestTrash\src\TestTrash\obj\Debug\TestTrash.exe
+E:\GitRepo\TestTrash\src\TestTrash\obj\Debug\TestTrash.pdb
