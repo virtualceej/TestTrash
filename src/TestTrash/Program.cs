@@ -10,7 +10,7 @@ namespace TestTrash
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow world 2");
+            Console.WriteLine("Hellow world 3");
             Console.ReadLine();
         }
     }
